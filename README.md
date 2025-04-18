@@ -17,8 +17,6 @@ I'm passionate about:
 - **Web3** | Viem, Wagmi, WalletConnect, Ethers, Solidity, Hardhat, bitcoin-js
 - **Tools & DevOps** | Git, TurboRepo, Storybook, Bitbucket, Recharts, date-fns
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhowdyfrom2019&count_bg=%2332D954&title_bg=%232DB400&icon=linewebtoon.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 
 ### Gitbub Dashboard
 
