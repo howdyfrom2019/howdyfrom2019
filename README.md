@@ -37,7 +37,7 @@ Feel free to connect or check out my recent projects!
 
 ### Social Media
 - [Blog, KR](https://web3boy.io)
-- [Paragraph, EN](https://paragraph.xyz/@b_cryptojake)
+- [Paragraph, EN](https://paragraph.xyz/@bcryptojake)
 - [x.com](https://x.com/b_cryptojake)
 - [linkedin.com](https://www.linkedin.com/in/sungjoo-kim-jake/)
 - (KR) blogs (deprecated)
