@@ -36,10 +36,10 @@ Feel free to connect or check out my recent projects!
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=howdyfrom2019&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howdyfrom2019&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social Media
-- [Blog](https://web3boy.io)
-- [Paragraph.xyz/@jio_jake](https://paragraph.xyz/@jio_jake)
-- [x.com/jio_jake](https://x.com/jio_jake)
-- [linkedin.com/in/sungjoo-kim-jake](https://www.linkedin.com/in/sungjoo-kim-jake/)
+- [Blog, KR](https://web3boy.io)
+- [Paragraph, EN](https://paragraph.xyz/@b_cryptojake)
+- [x.com](https://x.com/b_cryptojake)
+- [linkedin.com](https://www.linkedin.com/in/sungjoo-kim-jake/)
 - (KR) blogs (deprecated)
   - [Velog](https://velog.io/@howdy/posts)
   - [Tistory](https://dev-russel.tistory.com/)
