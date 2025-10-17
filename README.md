@@ -5,10 +5,10 @@
 I'm a Frontend Engineer with a product mindset, specializing in building user-centric Web3 applications that simplify complex blockchain interactions. My passion is turning challenging business requirements into reliable, scalable code.
 
 ### What I'm Working On Now (Current Focus):
-- **Sun Labs AG (Crypto Quant Trading) — Frontend Engineer**
+- **[Sun Labs AG](https://www.sunlabs.ai/) (Crypto Quant Trading) — Frontend Engineer**
 Building real-time dashboards and trading interfaces for on-chain quant strategies. Focused on performance optimization and interactive data visualization for institutional-grade crypto trading tools.
 
-- **Gomble Labs (GameFi / Dapp Freelancer) — Dapp Developer**
+- **[Gomble Labs](https://gomble.io) (GameFi / Dapp Freelancer) — Dapp Developer**
 Developing and maintaining blockchain-integrated gaming applications, including smart contract interactions, wallet integrations, and token launch (TGE) flows using Viem/Wagmi.
 
 - **Stealth Startup (Abstract Chain) — Tech Lead**
