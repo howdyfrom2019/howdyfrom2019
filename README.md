@@ -5,8 +5,14 @@
 I'm a Frontend Engineer with a product mindset, specializing in building user-centric Web3 applications that simplify complex blockchain interactions. My passion is turning challenging business requirements into reliable, scalable code.
 
 ### What I'm Working On Now (Current Focus):
-- Currently at Gomble (Blockchain GameFi), handling core Web3 frontend logic, smart contract integrations, and critical token launch (TGE) mechanics.
-- Focused on building seamless, multi-chain experiences (EVM) using modern stacks like Viem/Wagmi and TypeScript.
+- **Sun Labs AG (Crypto Quant Trading) — Frontend Engineer**
+Building real-time dashboards and trading interfaces for on-chain quant strategies. Focused on performance optimization and interactive data visualization for institutional-grade crypto trading tools.
+
+- **Gomble Labs (GameFi / Dapp Freelancer) — Dapp Developer**
+Developing and maintaining blockchain-integrated gaming applications, including smart contract interactions, wallet integrations, and token launch (TGE) flows using Viem/Wagmi.
+
+- **Stealth Startup (Abstract Chain) — Tech Lead**
+Leading the development of a cross-chain gaming application leveraging the Abstract Chain ecosystem. Designing scalable frontend architecture and coordinating smart contract integration across teams.
 
 ### Highlights & Impact:
 - Led Web3 frontend development for an NFT-driven gaming platform (Yooldo Games) that successfully onboarded over 900,000 users and helped secure ConsenSys investment.
