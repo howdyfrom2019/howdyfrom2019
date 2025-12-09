@@ -8,9 +8,6 @@ I'm a Frontend Engineer with a product mindset, specializing in building user-ce
 - **[Sun Labs AG](https://www.sunlabs.ai/) (Crypto Quant Trading) — Frontend Engineer**
 Building real-time dashboards and trading interfaces for on-chain quant strategies. Focused on performance optimization and interactive data visualization for institutional-grade crypto trading tools.
 
-- **[Gomble Labs](https://gomble.io) (GameFi / Dapp Freelancer) — Dapp Developer**
-Developing and maintaining blockchain-integrated gaming applications, including smart contract interactions, wallet integrations, and token launch (TGE) flows using Viem/Wagmi.
-
 - **Stealth Startup (Abstract Chain) — Tech Lead**
 Leading the development of a cross-chain gaming application leveraging the Abstract Chain ecosystem. Designing scalable frontend architecture and coordinating smart contract integration across teams.
 
