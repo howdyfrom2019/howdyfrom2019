@@ -1,51 +1,86 @@
-### Frontend-focused Web3 Engineer | TypeScript, React, Next.js, Viem/Wagmi | Bridging EVM Smart Contracts & Intuitive UX.
+```
+██████╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗ ██████╗████████╗    ███████╗███╗   ██╗ ██████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝    ██╔════╝████╗  ██║██╔════╝
+██████╔╝██████╔╝██║   ██║██║  ██║██║   ██║██║        ██║       █████╗  ██╔██╗ ██║██║  ███╗
+██╔═══╝ ██╔══██╗██║   ██║██║  ██║██║   ██║██║        ██║       ██╔══╝  ██║╚██╗██║██║   ██║
+██║     ██║  ██║╚██████╔╝██████╔╝╚██████╔╝╚██████╗   ██║       ███████╗██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝       ╚══════╝╚═╝  ╚═════╝  ╚═════╝
+```
 
-## 👋 Hey there, I'm Jake Sungjoo Kim!
+# Jake Sungjoo Kim · `@howdyfrom2019`
 
-I'm a Frontend Engineer with a product mindset, specializing in building user-centric Web3 applications that simplify complex blockchain interactions. My passion is turning challenging business requirements into reliable, scalable code.
+> **Product Engineer** — institutional crypto infra · AI harness · on-chain systems
 
-### What I'm Working On Now (Current Focus):
-- **[OrderX](https://www.orderx.com/) (Crypto Quant Trading) — Frontend Engineer**
-Building real-time dashboards and trading interfaces for on-chain quant strategies. Focused on performance optimization and interactive data visualization for institutional-grade crypto trading tools.
+---
 
-- **Stealth Startup (Abstract Chain) — Tech Lead**
-Leading the development of a cross-chain gaming application leveraging the Abstract Chain ecosystem. Designing scalable frontend architecture and coordinating smart contract integration across teams.
+## `whoami`
 
-### Highlights & Impact:
-- Led Web3 frontend development for an NFT-driven gaming platform (Yooldo Games) that successfully onboarded over 900,000 users and helped secure ConsenSys investment.
-- Expertise in achieving scalability and clean architecture in a high-growth dApp environment.
+Building at the intersection of **institutional crypto** and **AI-native tooling**.  
+Product engineer who ships end-to-end — from EVM calldata to the UI that renders it.
 
-🛠 Tech Stacks (Primary & Secondary):
+Currently obsessed with: agentic AI workflows over trading data, real-time on-chain intelligence, and tools that make institutional-grade crypto actually usable.
 
-| Category | Key Technologies |  
-| --- | --- |  
-| Frontend |	TypeScript, React, Next.js, @tanstack/react-query, Framer Motion |  
-| Web3 |	Viem, Wagmi, WalletConnect, Privy, Thirdweb, Ethers, Solidity, Hardhat |  
-| Backend & Infra |	Node.js, Prisma, MySQL, AWS (EC2, RDS, S3), GitHub Actions |  
-| Tools/Others |	Git, TurboRepo, Storybook, Recharts, Clean Code |  
+---
 
-### 💡 I'm passionate about:
+## `ps aux` — active processes
 
-Automating operational tasks with Node.js scripts.
+| pid | project | stack | status |
+|-----|---------|-------|--------|
+| 001 | **[OrderX](https://www.orderx.com/)** — institutional quant trading UI | Next.js · Viem · Recharts | `RUNNING` |
+| 002 | **Stealth** — Abstract Chain cross-chain app | Wagmi · Solidity · Hardhat | `RUNNING` |
 
-Exploring better design patterns to connect Web3 state management to React components.
+---
 
-Collaborating with global teams and fostering an open-source culture.
+## `cat ~/.toolchain`
 
-Feel free to connect or check out my recent projects!
+```toml
+[ai_stack]
+primary   = ["Claude Code", "Antigravity", "Gemini CLI"]
+interests = ["ai harness", "ai creator", "institutional crypto"]
 
-### Gitbub Dashboard
+[frontend]
+languages = ["TypeScript", "Solidity"]
+frameworks = ["Next.js", "React", "Elysia.js"]
+web3       = ["Viem", "Wagmi", "WalletConnect", "Privy", "Thirdweb", "Ethers"]
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howdyfrom2019&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howdyfrom2019&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[infra]
+runtime  = ["Node.js", "Bun"]
+db       = ["PostgreSQL", "pgvector", "Prisma", "MySQL"]
+cloud    = ["AWS EC2/RDS/S3", "GitHub Actions"]
+contracts = ["Solidity", "Hardhat"]
 
-### Social Media
-- [Blog, KR](https://web3boy.io)
-- [Paragraph, EN](https://paragraph.xyz/@bcryptojake)
-- [x.com](https://x.com/b_cryptojake)
-- [linkedin.com](https://www.linkedin.com/in/sungjoo-kim-jake/)
-- (KR) blogs (deprecated)
-  - [Velog](https://velog.io/@howdy/posts)
-  - [Tistory](https://dev-russel.tistory.com/)
+[dx]
+monorepo = "TurboRepo"
+ui_dev   = "Storybook"
+charts   = "Recharts"
+```
 
-### 📬 Contact
-<a href="mailto:jiovana.jake@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /> </a>
+---
+
+## `github-stats`
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howdyfrom2019&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howdyfrom2019&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## `cat /etc/hosts` — find me
+
+| channel | handle |
+|---------|--------|
+| Blog (KR) | [Naver]([https://web3boy.io](https://blog.naver.com/j_jvke)) |
+| Writing (EN) | [paragraph.xyz/@bcryptojake](https://paragraph.xyz/@bcryptojake) |
+| X / Twitter | [@b_cryptojake](https://x.com/b_cryptojake) |
+| LinkedIn | [sungjoo-kim-jake](https://www.linkedin.com/in/sungjoo-kim-jake/) |
+
+---
+
+## `mail -s "gm" jake@`
+
+<a href="mailto:jiovana.jake@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+
+---
+
+<sub>built with TypeScript · powered by claude code · somewhere between EVM and AGI</sub>
