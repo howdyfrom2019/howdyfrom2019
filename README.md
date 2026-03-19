@@ -15,10 +15,7 @@
 
 ## `whoami`
 
-Building at the intersection of **institutional crypto** and **AI-native tooling**.  
-Product engineer who ships end-to-end — from EVM calldata to the UI that renders it.
-
-Currently obsessed with: agentic AI workflows over trading data, real-time on-chain intelligence, and tools that make institutional-grade crypto actually usable.
+crypto builder
 
 ---
 
@@ -27,7 +24,7 @@ Currently obsessed with: agentic AI workflows over trading data, real-time on-ch
 | pid | project | stack | status |
 |-----|---------|-------|--------|
 | 001 | **[OrderX](https://www.orderx.com/)** — institutional quant trading UI | Next.js · Viem · Recharts | `RUNNING` |
-| 002 | **Stealth** — Abstract Chain cross-chain app | Wagmi · Solidity · Hardhat | `RUNNING` |
+| 002 | **Stealth** | Wagmi · Solidity · Hardhat | `RUNNING` |
 
 ---
 
