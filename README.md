@@ -35,21 +35,12 @@ crypto builder
 primary   = ["Claude Code", "Antigravity", "Gemini CLI"]
 interests = ["ai harness", "ai creator", "institutional crypto"]
 
-[frontend]
-languages = ["TypeScript", "Solidity"]
-frameworks = ["Next.js", "React", "Elysia.js"]
-web3       = ["Viem", "Wagmi", "WalletConnect", "Privy", "Thirdweb", "Ethers"]
+[web4]
+languages = ["TypeScript", "Solidity", "Python"]
+frameworks = ["Next.js", "Nest.js", "Elysia.js"]
+web3       = ["Viem", "Wagmi", "WalletConnect", "Privy", "Ethers", "Almost of EVM Dapp"]
 
-[infra]
-runtime  = ["Node.js", "Bun"]
-db       = ["PostgreSQL", "pgvector", "Prisma", "MySQL"]
-cloud    = ["AWS EC2/RDS/S3", "GitHub Actions"]
 contracts = ["Solidity", "Hardhat"]
-
-[dx]
-monorepo = "TurboRepo"
-ui_dev   = "Storybook"
-charts   = "Recharts"
 ```
 
 ---
